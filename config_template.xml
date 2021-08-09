@@ -1,0 +1,5 @@
+<zimletConfig name="zimbra-zimlet-salesforce" version="0.0.1">
+    <global>
+        <property name="sfsubdomain">na87</property>
+    </global>
+</zimletConfig>

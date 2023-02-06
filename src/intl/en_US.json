@@ -1,6 +1,10 @@
 {
 	"zimbra-zimlet-salesforce": {
 		"menuItem": "Salesforce Email2Case"
-      }
+	},
+	"zimlet": {
+		"description": "Adds a button in the more menu to create a Salesforce case from an email",
+		"label": "Salesforce Email2Case"
+	}
 }
 
